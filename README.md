@@ -1,2 +1,3 @@
-# wikipedia_traffic_analysis
-![](summary/daily_access_by_url_30.png)
+# **Wikipedia Traffic Aanalysis**
+![](summary/seasonal_decomposition_20.png)
+![](summary/overall_traffic_30.png)
